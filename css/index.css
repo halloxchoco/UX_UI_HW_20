@@ -1,0 +1,115 @@
+.sideBar{
+    background-color: #fbe1f3;
+    height: 100%;
+    width: 300px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    padding: 20px;
+    color: #523cda;
+}
+
+body{
+    font-family: 'Manjari', sans-serif;
+    font-size: 23px;
+    display: flex;
+}
+
+.mainContent{
+    margin-left: 350px;
+    padding: 1px 16px;
+    height: 1000px;
+}
+
+.logoBox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#logoImg{
+    width: 150px;
+}
+
+#profileImg{
+    border-radius: 25px;
+    width: 400px;
+}
+
+h1{
+    font-family: 'Dela Gothic One', sans-serif;
+    color: #523cda;
+    font-size: 42px;
+}
+
+h2{
+    font-family: 'Dela Gothic One', sans-serif;
+    color: #88e2d0;
+    font-size: 75px;
+}
+
+h3{
+    font-family: 'Dela Gothic One', sans-serif;
+    color: #523cda;
+    background-color: #fbe1f3;
+    font-size: 33px;
+}
+
+.sideBar a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 23px;
+    font-weight: 700;
+    color: #523cda;
+    display: block;
+  }
+
+  .sideBar a:hover{
+      color: #fff
+  }
+
+  ul{
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+  }
+
+  .socialBar{
+      display: flex;
+      align-items: flex-end;
+      justify-content: center;
+  }
+
+  .socialBar img{
+      width: 35px;
+  }
+  
+  .projLCol{
+
+    background-color: #523cda;
+    border-radius: 25px;
+    margin-right: 25px;
+    
+  }
+
+  .projRCol{
+ 
+    background-color: #523cda;
+    border-radius: 25px;
+  }
+
+  .projRow{
+      margin-bottom: 25px;
+      color: white;
+      text-align: center;
+  }
+
+  .projRow a{
+      color: white;
+      text-decoration: none;
+  }
+
+  .projRow a:hover{
+    color: #88e2d0;
+    text-decoration: none;
+}
