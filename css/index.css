@@ -104,12 +104,22 @@ h3{
       text-align: center;
   }
 
-  .projRow a{
-      color: white;
-      text-decoration: none;
-  }
+.projImg{
 
-  .projRow a:hover{
-    color: #88e2d0;
+}
+
+.projLink{
     text-decoration: none;
+}
+
+.projTitle{
+    color: white;
+}
+
+.projTitlehover{
+    color: #523cda;
+}
+
+.projcolHover{
+    background-color: #fbe1f3;
 }
