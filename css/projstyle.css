@@ -15,3 +15,11 @@ h4{
     background-color: #fbe1f3;
     font-size: 33px;
 }
+
+#ideationHero{
+    max-width: 1000px;
+}
+
+.col img{
+    max-width: 400px;
+}
