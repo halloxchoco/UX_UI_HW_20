@@ -18,6 +18,8 @@ h4{
 
 #ideationHero{
     max-width: 1000px;
+    display: block;
+    margin: auto;
 }
 
 .col img{
@@ -26,4 +28,11 @@ h4{
 
 #testingHero{
     max-width: 600px;
+    display: block;
+    margin: auto;
+}
+
+#prototypeVid{
+    display: block;
+    margin: auto;
 }
